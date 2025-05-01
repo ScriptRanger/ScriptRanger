@@ -8,6 +8,8 @@
 🔹 Fokus auf Automatisierung, Security, Clean Code und echte Projekte  
 🔹 Weiterbildung: Expert:in für Cloud- und Webentwicklung (bis 06/2025)
 
+[🔽 Zu meinen GitHub-Commits scrollen](#contributions)
+
 ---
 
 ## 🏆 GitHub Achievements  
