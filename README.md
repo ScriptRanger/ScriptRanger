@@ -1,7 +1,7 @@
 # 👋 Hi, ich bin Marcel  
 ### 🚀 Cloud & Webentwickler | DevOps | Automatisierung  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4AF3FF&width=600&lines=Willkommen+auf+meinem+Profil!;Future+Cloud+Architect+-+Spezialisiert+auf+AWS,+Docker+und+Terraform;Automatisierung+statt+Routine;Infrastruktur+mit+Code!)](https://github.com/ScriptRanger)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5000&color=4AF3FF&width=600&lines=Willkommen+auf+meinem+Profil!;Future+Cloud+Architect+-+Spezialisiert+auf+AWS,+Docker+und+Terraform;Automatisierung+statt+Routine;Infrastruktur+mit+Code!)](https://github.com/ScriptRanger)
 
 🔹 Cloud & Webentwicklung – mit Plan und Leidenschaft  
 🔹 AWS, Azure, Docker, Terraform, Proxmox, Git  
