@@ -48,7 +48,7 @@
 
 ## 📫 Kontakt  
 📧 E-Mail: [ebelmarcel@gmail.com](mailto:ebelmarcel@gmail.com)  
-💼 LinkedIn: *(Link einfügen, wenn fertig)*  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/marcel-ebel-409a8b321/) 
 👀 Besucherzähler:  
 ![Visitors](https://komarev.com/ghpvc/?username=ScriptRanger&color=blue&style=flat-square)
 
